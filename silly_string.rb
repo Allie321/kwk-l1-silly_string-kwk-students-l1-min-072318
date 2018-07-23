@@ -1,7 +1,7 @@
 puts "Netflix".upcase
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "Netflix".upcase
 
 puts "My favorite word is #{your_favorite_word}"
 
